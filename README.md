@@ -292,5 +292,8 @@ int main(int argc, char **argv)
 ![373495273-3dbf5f9d-5598-462e-abfc-baba2c3abe28](https://github.com/user-attachments/assets/0b71d6b0-7c26-4c57-880b-a84b39e94b79)
 
 
+![373496322-5a7706f7-fb97-4250-bb06-2e2b7eaeb160](https://github.com/user-attachments/assets/566fc1b3-a479-46e2-8829-ec66be632301)
+
+
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
